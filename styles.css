@@ -63,11 +63,13 @@ nav{
    justify-content: space-around;}
   .data{
    background-color: #3983f1;
+   margin: 150px;
    height: 340px;
-   width: 1140px;
+   width: 90%
    align-items: center;
   border-radius: 24px;
-  padding: 200px;
+  padding: 50px;
+  
   }
   .number{
     color: blue;
