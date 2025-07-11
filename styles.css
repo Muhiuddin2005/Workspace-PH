@@ -103,8 +103,10 @@ nav{
         }
         .links{
         text-align: center;
-            margin: 20px;
-        }
+            margin: 20px;}
+            .last
+            {
+            text-decoration: none;}
         .btn:hover {
             background-color: #106af1;
              
@@ -196,4 +198,13 @@ nav{
             border-radius: 5px;
             font-size: 15px;
         }
-
+        .flogo{
+          color: blue;
+          font-size: 100px;
+          font-weight: bold;
+        }
+.links2{
+  padding: 50px;
+  justify-content: space-around;
+  gap: 50px;
+}
