@@ -21,9 +21,12 @@ nav{
 .img{
     background-image: url(/Assets/Hero-bg.png);
    height: 900px;
-   width: 1400px;
+   width: 100%;
    padding: 150px;
-   background-position: cover;
+   background-position: center;
+   margin: 0px;
+   background-size: cover;
+
   
 }
 .raleway-m {
@@ -64,7 +67,7 @@ nav{
    width: 1140px;
    align-items: center;
   border-radius: 24px;
-  padding: 100px;
+  padding: 200px;
   }
   .number{
     color: blue;
@@ -133,7 +136,7 @@ nav{
                 padding: auto;
                 
             }
-            body{
+            .body{
                 max-width: 100%;
                 align-items: center;
                 justify-content: center;
@@ -149,7 +152,7 @@ nav{
            .bgc{
             background-color: aqua;
             margin: 0px;
-            padding: auto;
+            padding: 0px;
             align-items: center;
             justify-content: center;
            }
